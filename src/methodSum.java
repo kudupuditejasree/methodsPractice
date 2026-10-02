@@ -13,6 +13,7 @@ public class methodSum {
         int b=scanner.nextInt();
         int result=add(a,b);
         System.out.println("sum="+result);
+        System.out.println("sum=");
 
 
     }
